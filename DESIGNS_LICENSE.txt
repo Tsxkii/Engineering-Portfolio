@@ -1,0 +1,19 @@
+Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)
+
+Copyright © 2025 Justin Lewis
+
+All design files, CAD models, build schematics, blueprints, and visual assets in this repository are licensed under the Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License.
+
+You are free to:
+• View and share the designs with attribution to the creator.
+• Use them for personal or educational purposes.
+
+Under the following terms:
+• Attribution — You must give appropriate credit to Justin Lewis.
+• NonCommercial — You may not use the material for commercial purposes.
+• NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material without permission.
+• No Patent Rights — You may not file for or claim patent rights based on these designs or any derivatives thereof.
+
+Full license text available at: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+By accessing or using these design files, you agree to the terms of this license.
